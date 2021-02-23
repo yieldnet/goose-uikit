@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/yieldnet",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -162,10 +162,10 @@ export const socials = [
       //   label: "Français",
       //   href: "https://t.me/pancakeswapfr",
       // },
-      {
-        label: "Announcements",
-        href: "https://t.me/goosefinanceann",
-      },
+      // {
+      //   label: "Announcements",
+      //   href: "https://t.me/goosefinanceann",
+      // },
       // {
       //   label: "Whale Alert",
       //   href: "https://t.me/PancakeSwapWhales",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceGoose",
+    href: "https://twitter.com/YieldNet",
   },
 ];
 
@@ -183,3 +183,4 @@ export const MENU_HEIGHT = 64;
 export const MENU_ENTRY_HEIGHT = 48;
 export const SIDEBAR_WIDTH_FULL = 240;
 export const SIDEBAR_WIDTH_REDUCED = 56;
+
